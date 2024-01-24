@@ -96,7 +96,7 @@ p{
 }
 
 a.sidebar-link {
-    padding: .625rem 1.25rem;
+    padding: .625rem 1.625rem;
     color: black;
     position: relative;
     display: block;
@@ -154,7 +154,5 @@ a.sidebar-link {
     b{font-size: 13px;};
     strong{font-size: 13px;}
     .main li {font-size: 13px;}
-    a.sidebar-link {
-        padding: .625rem 1.25rem;}
-    
+    .docs-content p{font-size: 13px;}
     }
